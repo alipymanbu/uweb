@@ -8,15 +8,17 @@
 
 [infinicloud](https://uno.teracloud.jp/share/1162dfa8376e1609)
 
+[mdict](https://cloud.freemdict.com/index.php/s/kBCzTSzX8oZSj5L)
+
 [gitee](https://gitee.com/jamesfengcao/uweb/releases)
 
 [gitea](https://gitea.com/torappinfo/uweb/releases)
 
 [gitdab](https://gitdab.com/jamesfengcao/uweb/releases)
 
-[gitnet](https://gitnet.fr/jamesfengcao/uweb/releases)
+[disroot](https://git.disroot.org/torappinfo/uweb/releases)
 
-[tildegit](https://tildegit.org/jamesfengcao/uweb/releases)
+[gitnet](https://gitnet.fr/jamesfengcao/uweb/releases)
 
 [powerfolder](https://my.powerfolder.com/getlink/fi61cC6VHjK72tfufmnLAz/)
 
@@ -25,8 +27,6 @@
 [codefloe](https://codefloe.com/jamesfengcao/uweb/releases)
 
 [baidu](https://pan.baidu.com/s/17coQj6DCHqghMMNJUyjgrA#list/path=%2Fuweb)
-
-[gitcode](https://gitcode.com/uweb/uweb/releases)
 
 [gitlink](https://www.gitlink.org.cn/jamesfengcao/uweb/releases)
 
