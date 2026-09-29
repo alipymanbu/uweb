@@ -1,54 +1,26 @@
-### Uweb browser: minimal suckless web browser with unlimited power
-<a href="README.zh-Hans.md" onclick="if(notRepo()){location='../../zh/readme/index.html#';return false;}">中文</a>
+# uWeb
 
-[Galaxy.Store](https://galaxystore.samsung.com/detail/info.torapp.uweb)
-<a href="en/download.md" onclick="if(notRepo()){location='../../en/changelog/index.html#';return false;}">Downloads</a>
+本仓库是「uWeb」的安卓版本获取入口，附使用资料索引。
 
-[Uweb browser: downloads, plugins and tips](https://torappinfo.github.io/uweb/en/)  
-(Mirrors: [grebe](https://uweb.grebedoc.dev) [gitlab](https://jamesfengcao.gitlab.io/uweb/en/) [frama](https://torappinfo.frama.io/uweb/en/) [codeberg](https://uweb.codeberg.page/en/) [repo](https://repo.or.cz/uweb.git/blob_plain/HEAD:/en/index.html) [netlify](https://uwebzh.netlify.app/en/) [surge](https://uweb.surge.sh/en/) [kinsta](https://uwebbrowser-t27o4.kinsta.page) [bitbucket](https://torappinfo.bitbucket.io/en/) [pages](https://muweb.pages.dev/en/) [vercel](https://uweb.vercel.app/en/) [render](https://uweb.onrender.com/en/) [statichost](https://torappinfo-uweb.statichost.eu) [maozi](https://uweb.maozi.io) [storm](https://uweb.stormkit.dev) [pgs](https://uweb-m.pgs.sh) <a href="en/mirrors.md" onclick="if(notRepo()){location='../../en/mirrors/index.html#';return false;}">More...</a>)
+## 安装文件资源（夸克网盘）
 
- - <a href="en/search.md" onclick="if(notRepo()){location='../search/index.html#';return false;}">AI chat as search engine</a>; optimized UI for both AI and traditional search; [input helpers](https://uwebzh.netlify.app/en/input/index.html#) for complex query.
-- <a href="en/tips.md" onclick="if(notRepo()){location='../redirect/index.html#';return false;}">Global redirection</a> to bypass censorship. 
-- Convenient: Any AI chatbot/book/dictionary/txt/command line/app/webapp (web extensions) as search engine.
-- Tiny: less than 250k.
-- Fast: run fast, even with thousands of user provided css/scripts/htmls.
-- Efficient: less touches, one click to reach any number of search engines without repeated input; automate online services.
-- Powerful: any native functionality with html5 enhancement and still secure; any urls to host website; javascript and shell scripting for general processing.
-- Customizable: user-defined menus, (new) buttons and gestures for user agents, bookmarklets, url services, shell commands, internal functionality links and text processing etc.
-- URL bar command line support ("!" and .js file as command).
-- Site-specific JS/CSS/HTML/preprocessing, ex. "siteextra/[domain.sanitizer]" support.
-- Online play/preview/preprocess for downloadable resources.
-- Multiple type profiles: switch any data including website logins, user configurations orthogonally.
-- Supports enhanced user "hosts" file. Empty IP address to lift all server-imposed limitations.
-- Website test automation scripting. crontab support (alarm clock and more). 
+> **uWeb 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/79e9f254aac0](https://pan.quark.cn/s/79e9f254aac0)
 
-#### Main features
-Custom paper size PDF export and long vector screenshot, TTS, text reflow, resource sniffer, translation, reader's mode, user-defined url redirection, webdav/http backup & restore, auto next page, sending/receiving msg/file(s), site config (UA, no JS, no image, no 3rd party script/resource,active script, global scripts), http(s)/socks proxy, Wake-on-LAN, enabling html5 apps for local files (pdf/djvu/epub viewer, mdict dictionary lookup etc.).
+## 官方项目
 
-- Bookmarklets (works for CSP sites and with option to auto apply to similar sites)
-- AD blocking (block whole root domain trees etc.)
-- Serverless local sites: PWA-kind web extension (chrome .crx & firefox .xpi) support.
-- Resizable floating video support.
+- 上游项目：[torappinfo/uweb](https://github.com/torappinfo/uweb)
 
-#### Screenshots
-![](https://i.postimg.cc/rsL9G5N1/home1.png)
-![](https://i.postimg.cc/9QxJ3Rc2/globalcss.png)
-![](https://i.postimg.cc/VksDHBQ4/globaljs.png)
-![](https://i.postimg.cc/HLV3TYLy/longclick.png)
-![](https://i.postimg.cc/XJ58ysdN/option1.png)
-![](https://i.postimg.cc/0NFnQT6H/option2.png)
+## 更多资料
 
-#### <a href="misc/ebrowser/README.md"  onclick="if(notRepo()){location='../../en/ebrowserreadme/index.html#';return false;}">Ebrowser</a> for Windows, MacOS and Linux
-Ebrowser is a simple version of uweb browser on the desktop.
-- Fully open source.
-- Capture long screenshot as vector graphics. 
-- Enabling web tech for vector designing to replace Adobe Illustrator/Inkscape.
+- [下载与安装教程](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/uWeb/%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.md)
+- [地址栏命令与快捷操作](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/uWeb/%E5%9C%B0%E5%9D%80%E6%A0%8F%E5%91%BD%E4%BB%A4%E4%B8%8E%E5%BF%AB%E6%8D%B7%E6%93%8D%E4%BD%9C.md)
+- [工具栏按钮与长按功能说明](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/uWeb/%E5%B7%A5%E5%85%B7%E6%A0%8F%E6%8C%89%E9%92%AE%E4%B8%8E%E9%95%BF%E6%8C%89%E5%8A%9F%E8%83%BD%E8%AF%B4%E6%98%8E.md)
+- [常见问题与使用技巧](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/uWeb/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E4%B8%8E%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7.md)
+- [广告屏蔽与内容过滤方法](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/uWeb/%E5%B9%BF%E5%91%8A%E5%B1%8F%E8%94%BD%E4%B8%8E%E5%86%85%E5%AE%B9%E8%BF%87%E6%BB%A4%E6%96%B9%E6%B3%95.md)
+- [搜索引擎配置教程](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/uWeb/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B.md)
+- [新手使用指南](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/uWeb/%E6%96%B0%E6%89%8B%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.md)
+- [全部软件目录](https://github.com/alipymanbu/Android/blob/master/%E5%85%A8%E9%83%A8%E8%BD%AF%E4%BB%B6%E7%9B%AE%E5%BD%95.md)
 
-#### Help with localization
-We encourage everyone to help with localization. The following is how to do.
+---
 
-- Fork this repository
-- Copy res/values/strings.xml to path like res/values-%(lang)/, replace %(lang) with [the ISO 639-1 language code](http://www.loc.gov/standards/iso639-2/php/code_list.php).
-- Translate res/values-%(lang)/strings.xml
-- Translate assets/help_%(lang).html from assets/help_en.html
-- Make a Pull Request
+> 本仓库由上游项目 fork 而来，原始说明见[上游仓库](https://github.com/torappinfo/uweb)。
